@@ -5,9 +5,16 @@ public class EInventado4{
         int aczino;
         int wos;
         int mks;
+
+        System.out.print("Ingresa el primer valor: ");
         aczino=nombre.nextInt();
+
+        System.out.print("Ingresa el segundo valor: ");
         wos=nombre.nextInt();
+
         mks = aczino + wos;
+
+        System.out.print("El resultado es: ");
         System.out.println(mks);
     
     }
