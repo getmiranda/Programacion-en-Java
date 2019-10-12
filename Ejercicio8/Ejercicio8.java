@@ -9,6 +9,9 @@ public class Ejercicio8{
         double area = (base*altura)/2;
         double perimetro = (base * 3);
         System.out.println("el area es " + area );
-        System.out.println("el perimetro es " + perimetro);      
+        System.out.println("el perimetro es " + perimetro);   
+        nada.close();   
         }
 }
+//like si lees esto xd// 
+//no no quedo claro//
